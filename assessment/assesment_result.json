@@ -1,0 +1,6 @@
+{
+    "Test Case 1: Add To List App - should render the Title in UI": "TEST_STATUS_SUCCESS",
+    "Test Case 2: Add To List App - should have a square": "TEST_STATUS_SUCCESS",
+    "Test Case 3: Add To List App - should have a circle": "TEST_STATUS_SUCCESS",
+    "Test Case 4: Add To List App - should have circle inside the square": "TEST_STATUS_SUCCESS"
+}

@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f7fb;
+  }
+  
+  .app {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  h1 {
+    margin: 0 0 18px;
+    font-size: 28px;
+    color: #101828;
+  }
+  
+  .square {
+    width: 288px;
+    height: 288px;
+    background: #ffd11a;
+    border: 2px solid #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .circle {
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    background: #2864e8;
+    border: 2px solid #111;
+  }
